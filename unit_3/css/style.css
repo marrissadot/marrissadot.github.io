@@ -1,6 +1,11 @@
 body {
-	background:url(images/parisview.jpg);
-	font-size:200px;
-	font-style:"Georgia", serif;
-	text-align: center;
+  text-align: center;
+  background: url("images/parisview.jpg");
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
+}
+
+h1{
+  font-size: 200px;
 }
