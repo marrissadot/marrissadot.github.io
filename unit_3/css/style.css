@@ -1,11 +1,8 @@
 body {
   text-align: center;
-  background: url("images/parisview.jpg");
+  background: url('parisview.jpg')  
   background-size: cover;
   color: #fff;
   font-family: Helvetica;
-}
-
-h1{
   font-size: 200px;
 }
