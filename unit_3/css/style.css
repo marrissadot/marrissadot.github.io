@@ -1,8 +1,15 @@
 body {
-  text-align: center;
-  background: url('parisview.jpg')  
+  text-align: right;
+  background: url('images/parisview.jpg');  
   background-size: cover;
-  color: #fff;
+  color: black;
   font-family: Helvetica;
-  font-size: 200px;
+  font-size: 22px;
+}
+br { 
+  line-height:150px;
+}
+p {text-align: center;
+	font-size:33px;
+    font-weight: bold;
 }
