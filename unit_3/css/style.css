@@ -9,7 +9,7 @@ body {
 br { 
   line-height:150px;
 }
-p {text-align: center;
-	font-size:33px;
+p {text-align: left;
+	font-size:30px;
     font-weight: bold;
 }
