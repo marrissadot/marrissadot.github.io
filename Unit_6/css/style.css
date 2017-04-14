@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+@import url('https://fonts.googleapis.com/css?family=Lateef');
+body {
+  text-align: left;
+  background: url('images/parisview.jpg');  
+  background-color: #FFFFCC;
+  background-size: cover;
+  color: grey  ;
+  font-family: 'Tangerine', cursive;
+  font-size: 90px;
+}
+br { 
+  line-height:10px;
+}
+p {text-align: left;
+	font-family: 'Lateef', cursive;
+	font-size:40px;
+
+}
+
+header {
+    background-color: white ;
+    }
+
+img {
+	display: block;
+	margin: 0 auto;
+} 
+
+#Hotelphoto, #Luxphoto, #Montphoto, #Bridgephoto, 
+#Hotel, #Lux, #Mont, #Bridge {
+        }
+
+ #Hotelphoto{
+ padding: 2px;
+       width: 60%;
+}
+#Hotel{
+padding: 2px;
+       width: 40%;}
+
+    #Luxphoto{
+ padding: 1px;
+        width: 60%;
+}
+#Lux{
+padding: 1px;
+       width: 40%;}
+
+       #HMontphoto{
+ padding: 2px;
+        width: 60%;
+}
+#Mont{
+padding: 2px;
+        width: 40%;}
+
+ #Bridgephoto{
+ padding: 2px;
+        width: 60%;
+}
+#Bridge{
+padding: 2px;
+
+    width: 40%;}
+ 

@@ -8,9 +8,29 @@ body {
   font-family: 'Tangerine', cursive;
   font-size: 70px;
 }
-
+br { 
+  line-height:10px;
+}
 p {text-align: left;
 	font-family: 'Lateef', cursive;
 	font-size:30px;
     
 }
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+#northParis{
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#southParis{
+    background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
